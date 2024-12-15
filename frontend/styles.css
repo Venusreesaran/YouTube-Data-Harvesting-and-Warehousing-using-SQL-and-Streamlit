@@ -1,0 +1,44 @@
+.header {
+    height: 100px;  /* Increase the height to your preferred size */
+}
+/* Adjust the padding to ensure content is centered within the header */
+header .css-1g50vve {
+    padding-top: 1500px;  /* Adjust top padding */
+}
+
+.stApp {
+    background-color: #0E1117;
+    color: white;
+}
+.video-card {
+    background-color: #1E1E1E;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.video-card:hover {
+    background-color: #2D2D2D;
+    transition: background-color 0.3s;
+}
+.channel-header {
+    background-color: #2D2D2D;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.comment-card {
+    background-color: #2D2D2D;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+.search-container {
+    background-color: #1E1E1E;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.back-button {
+    margin-bottom: 20px;
+}

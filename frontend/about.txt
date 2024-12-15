@@ -1,0 +1,13 @@
+About This App
+
+This is a YouTube Analytics Dashboard built using Streamlit and Flask.
+It allows users to analyze YouTube channel statistics, such as the top 
+most-viewed videos, most liked videos, and channel analytics, among others.
+
+Features:
+1. View the top 10 most viewed and liked videos.
+2. See the total views for each channel.
+3. Analyze comments, likes, and dislikes across videos.
+4. View a yearly breakdown of published videos for channels.
+
+Developed by [Your Name].
